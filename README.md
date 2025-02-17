@@ -52,4 +52,4 @@ Für eine eigene Serie habe ich ein Intro designt, welches auf einer bestehenden
 
 ## Projektziele und -methoden
 - **Ziel**: Dieses Projekt hatte das Ziel, verschiedene Arten von Animationen zu erstellen, um die Fähigkeiten in der digitalen Kunst und Animation zu vertiefen. Dabei lag der Fokus auf der Kombination von grafischen Designtechniken und bewegten Bildern.
-- **Methoden**: Jede Animation wurde unter Verwendung moderner Softwaretools erstellt, um innovative Designs zu entwickeln. Die Hauptwerkzeuge waren Adobe After Effects für Animationen, Krita für Bilderstellung und Bearbeitung, sowie teils Blender und Cinema 4D für 3D-Arbeiten.
+- **Methoden**: Jede Animation wurde unter Verwendung moderner Softwaretools erstellt, um innovative Designs zu entwickeln. Die Hauptwerkzeuge waren Adobe After Effects für Animationen, Krita für Bilderstellung und Bearbeitung, sowie teils Blender und Cinema 4D für 3D-Arbeiten. Für den Videoschnitt wurde das Programm Shotcut verwendet. Die Audiodateien sind allesamt lizenzfrei und stammen aus der Community von Pixabay.
