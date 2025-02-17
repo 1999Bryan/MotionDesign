@@ -12,50 +12,44 @@ Dies ist das Repository für mein benotetes semesterbegleitendes Projekt, das ei
 ## Inhalt des Repositories
 
 ### 1. Kreisanimation (5 Sekunden Clip)
-Die **Kreisanimation** ist eine einfache, aber wirkungsvolle Animation, die mit verschiedenen Formen, Farben und Bewegungen experimentiert. Der Clip dauert 5 Sekunden und nutzt den Kreis als zentrales Element. 
+Die **Kreisanimation** ist eine einfache, aber wirkungsvolle Animation, die mit verschiedenen Formen, Farben und Bewegungen experimentiert. Der Clip dauert 5 Sekunden und nutzt nur Kreise. 
 
 **Verwendete Tools:**
 - Adobe After Effects
-- Blender (für 3D-Elemente)
 
 **Dateien:**
-- `kreis_animation.mp4`
-- `kreis_animation_source.aep`
+- ESA1
 
 ### 2. Still Image Animation - Thema "Großstadtdschungel"
-Diese Animation verwendet ein stilles Bild eines Großstadtdschungels, das durch Animationseffekte lebendig wird. Ziel ist es, das urbane Dschungel-Thema zu vermitteln, indem subtile Bewegungen und Lichteffekte hinzugefügt werden.
+Diese Animation verwendet KI-generierte Bilder. Ziel dieser Arbeit war eine Visualisierung von Emotionen zum Thema "Großstadtdschungel", welche durch Animationseffekte lebendig wird.
 
 **Verwendete Tools:**
 - Adobe After Effects
 - Krita & diverse KIs (zur Bilderstellung)
 
 **Dateien:**
-- `großstadtdschungel_animation.mp4`
-- `großstadtdschungel_source.psd`
+- ESA2
 
 ### 3. Logo Animation einer Dokumentarfilm-Marke
-Für diese Animation habe ich ein Logo für eine hypothetische Dokumentarfilm-Marke erstellt und dieses animiert. Ziel war es, das Logo in Bewegung zu setzen, um eine einprägsame visuelle Wirkung zu erzielen.
+Für diese Animation habe ich ein Logo für eine hypothetische Dokumentarfilm-Marke erstellt und dieses animiert. Ziel war es, das Logo in Bewegung zu setzen, um eine einprägsame visuelle Wirkung zu erzielen. Diese Animation wurde zunächst mit Blender bearbeitet und später mit Adobe-Produkten überarbeitet
 
 **Verwendete Tools:**
 - Adobe Illustrator (für das Logo)
 - Adobe After Effects (für die Animation)
 
 **Dateien:**
-- `logo_animation.mp4`
-- `logo_design.ai`
-- `logo_animation.aep`
+- ESA3
 
 ### 4. Title Design für eine eigene Serie
-Für meine eigene Serie habe ich Titelbilder designt, die auf bestehenden Vorlagen basieren. Ziel war es, einen einzigartigen Look zu entwickeln, der zum Thema der Serie passt. Hierzu habe ich mit Textanimationen und typografischen Effekten experimentiert.
+Für eine eigene Serie habe ich ein Intro designt, welches auf einer bestehenden Designvorlage basiert. Ziel war es, einen einzigartigen Look zu entwickeln, der zum Thema der Serie passt.
 
 **Verwendete Tools:**
 - Adobe After Effects
-- Cinema 4D (für 3D-Titel)
+- Cinema 4D
 
 **Dateien:**
-- `title_design.mp4`
-- `title_design_source.aep`
+- ESA4
 
 ## Projektziele und -methoden
-- **Ziel**: Dieses Projekt hatte das Ziel, verschiedene Arten von Animationen zu erstellen, um meine Fähigkeiten in der digitalen Kunst und Animation zu vertiefen. Dabei lag der Fokus auf der Kombination von grafischen Designtechniken und bewegten Bildern.
-- **Methoden**: Jede Animation wurde unter Verwendung moderner Softwaretools erstellt, um innovative Designs zu entwickeln. Die Hauptwerkzeuge waren Adobe After Effects für Animationen, Photoshop und Illustrator für Bildbearbeitung sowie Blender und Cinema 4D für 3D-Arbeiten.
+- **Ziel**: Dieses Projekt hatte das Ziel, verschiedene Arten von Animationen zu erstellen, um die Fähigkeiten in der digitalen Kunst und Animation zu vertiefen. Dabei lag der Fokus auf der Kombination von grafischen Designtechniken und bewegten Bildern.
+- **Methoden**: Jede Animation wurde unter Verwendung moderner Softwaretools erstellt, um innovative Designs zu entwickeln. Die Hauptwerkzeuge waren Adobe After Effects für Animationen, Krita für Bilderstellung und Bearbeitung, sowie teils Blender und Cinema 4D für 3D-Arbeiten.
