@@ -1,4 +1,4 @@
-# Semesterbegleitendes Projekt - Animationen & Design
+# Semesterbegleitendes Projekt - Motion Design
 
 ## Überblick
 Dies ist das Repository für mein benotetes semesterbegleitendes Projekt, das eine Reihe von Animationen und Designarbeiten umfasst. Das Projekt beinhaltet fünf Hauptbestandteile:
